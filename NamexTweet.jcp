@@ -34,7 +34,7 @@ public class NamexTweet {
 	twitter.setOAuthAccessToken(oathAccessToken);
 	// end of difference
 
-	twitter.updateStatus("Hi, im updating status again from Namex Tweet for Demo");
+	twitter.updateStatus("Hi, Nama saya brian bagas");
 
 	System.out.println("\nMy Timeline: haloooo my friend");
 
